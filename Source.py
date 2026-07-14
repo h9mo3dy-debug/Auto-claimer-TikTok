@@ -1,6 +1,6 @@
 # The tool is free, it is forbidden to sell it or modify its rights
-# Developed by mr.joker
-# instagram : @221298 | telegram : @vv1ck
+# Developed by wildspiritlibre
+# instagram : @3dmf
 try:
 	from requests import post,get
 	from random import choice
@@ -259,14 +259,15 @@ class Auto_claimer_TIKTOK:
 			else:
 				print(f'[$] The sessionid is working >> {sisn}')
 def Settings():
-	Modes=input(f"""{Blou}
-       _       _   Auto 
-   ___| | __ _(_)_ __ ___   ___ _ __  
-  / __| |/ _` | | '_ ` _ \ / _ \ '__| 
- | (__| | (_| | | | | | | |  __/ |    
-  \___|_|\__,_|_|_| |_| |_|\___|_|    
+	Modes = input(f"""{Blou}
+ _____ ____  __  __ _____    ____ _        _    ___ __  __ _____ ____  
+ |___ /|  _ \|  \/  |  ___|  / ___| |      / \  |_ _|  \/  | ____|  _ \ 
+   |_ \| | | | |\/| | |_    | |   | |     / _ \  | || |\/| |  _| | |_) |
+  ___) | |_| | |  | |  _|   | |___| |___ / ___ \ | || |  | | |___|  _ < 
+ |____/|____/|_|  |_|_|      \____|_____/_/   \_\___|_|  |_|_____|_| \_\
+
                For TikTok
-           By Joker @221298
+           By WildSpiritLibre
 {wit}
 - 1 ) Target one account [username+sessionid]
 - 2 ) Targeting through a list [usernames+sessions]
